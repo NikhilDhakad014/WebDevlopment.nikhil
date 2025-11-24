@@ -1,2 +1,4 @@
-# WebDevlopment.nikhil
-web devlopment
+# STUDENT
+NIKHIL DHAKAD
+# TEACHER
+SHRADHA KHAPRA
